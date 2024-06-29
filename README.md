@@ -1,8 +1,8 @@
 # Realsoft-AI-task
 
-# Student Performance Prediction
+# Dataset Prediction
 
-This project aims to predict student performance based on various features. The dataset and preprocessing steps, as well as the training of different models, are included in this notebook.
+This project aims to predict datasets based on various features. The dataset and preprocessing steps, as well as the training of different models, are included in this notebook.
 
 ## Table of Contents
 - [Dataset](#dataset)
@@ -15,7 +15,7 @@ This project aims to predict student performance based on various features. The 
 - [License](#license)
 
 ## Dataset
-The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams). It contains various features related to student demographics, study time, and previous scores.
+The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com). It contains various datasets related to any field.
 
 ## Data Preprocessing
 1. **Loading Data:** The data is loaded using pandas.
